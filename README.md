@@ -39,7 +39,17 @@ Open `http://localhost:5173` to view the app.
 
 ## Screenshots
 
-Screenshots are available in the `screenshots/` directory demonstrating each part of the development process.
+### Initial Setup (Part 0)
+![Initial App](screenshots/part0-initial-app.png)
+
+### PostCard Implementation (Part 3)
+![Part 3 Checkpoint](screenshots/part3-checkpoint.png)
+
+### Comments System (Part 4)
+![Comments Feature](screenshots/part4-comments.png)
+
+### Final App (All Features)
+![Final App](screenshots/final-app.png)
 
 ## Project Structure
 
