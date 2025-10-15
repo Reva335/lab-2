@@ -20,33 +20,16 @@ This repository contains a fully functional Mini-Instagram application built wit
 
 ## 📱 Screenshots
 
-### Part 0: Initial Setup
-![Initial App View](screenshots/part0-initial-app.png)
-*Default Vite + React starter page*
+Screenshots documenting the development process are available in the `screenshots/` directory:
 
-### Part 3: PostCard Component
-![PostCard Implementation](screenshots/part3-postcard.png)
-*PostCard component with like functionality and console logs*
+- **Part 0**: Initial Vite + React setup
+- **Part 3**: PostCard component with like functionality
+- **Part 4**: Comments system implementation  
+- **Part 5**: Composer and new post creation
+- **Part 6**: User profile pages with routing
+- **Polish**: Final app with all features and accessibility
 
-### Part 3: Checkpoint Verification
-![Part 3 Checkpoint](screenshots/part3-checkpoint.png)
-*Verification of PostCard functionality with two posts and clean console*
-
-### Part 4: Comments Functionality
-![Comments Feature](screenshots/part4-comments.png)
-*Comments system with existing and new comments*
-
-### Part 5: Composer + New Post
-![Composer and New Post](screenshots/part5-composer.png)
-*Post creation form and newly created post at top of feed*
-
-### Part 6: Routing - Profile Page
-![Profile Page](screenshots/part6-profile.png)
-*User profile page showing filtered posts for @bob*
-
-### Polish: Final App with All Features
-![Final App](screenshots/final-app.png)
-*Complete Mini-Instagram app with all features implemented*
+*Note: Screenshots can be added to the `screenshots/` directory to demonstrate each part of the development process.*
 
 ## 🏗️ Project Structure
 
